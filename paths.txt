@@ -1,0 +1,11 @@
+ServicePaths
+
+1) Configuration
+http://localhost/services/configuration.php?action=configure_device
+
+2) Login
+http://localhost/services/login.php?action=driver_login
+
+3) UpdateLocation
+
+http://localhost/services/login.php?action=update
